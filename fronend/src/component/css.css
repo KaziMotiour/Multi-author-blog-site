@@ -1,0 +1,20 @@
+.nav{
+    margin-left: auto;
+    float:left
+    
+}
+
+.nav1{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.title{
+    text-align: center;
+}
+
+.img{
+    max-height: 250px;
+    max-width: 450px;
+
+}
