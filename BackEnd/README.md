@@ -1,9 +1,9 @@
 
-To install all the packages which are required, you can run:
+To install all the packages which are required, Type on CMD:
 
 ## pip i -r requirements.txt
 
-To run this project, you can run:
+To run this project, Type on CMD:
 
 ## python manage.py runserver
 
