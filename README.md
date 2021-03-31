@@ -13,6 +13,7 @@
 ## Back-end
 * Django
 * Django Rest Framework
+* postgresql
 
 
 
